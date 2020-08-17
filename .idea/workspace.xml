@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e62b429-663a-4c84-81a4-9db049e84b74" name="Default Changelist" comment="Hello New" />
+    <list id="973e8dd2-e1b2-4d5f-af0e-61597ff24419" name="Revert &quot;Revert &quot;Intellij Push&quot;&quot;" comment="Revert &quot;Revert &quot;Intellij Push&quot;&quot;&#10;&#10;This reverts commit 6f08579c" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sandeepani2206 &lt;66374485+sandeepani2206@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1gEIX4DwgbYeqYnCbhZLZnKC8j9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e62b429-663a-4c84-81a4-9db049e84b74" name="Default Changelist" comment="" />
+      <created>1597673360825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597673360825</updated>
+      <workItem from="1597673361975" duration="126000" />
+      <workItem from="1597673499569" duration="89000" />
+      <workItem from="1597674154799" duration="462000" />
+    </task>
+    <task id="LOCAL-00001" summary="Hello 11">
+      <created>1597674189492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597674189492</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hello 11">
+      <created>1597674522553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597674522553</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello 11" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597674482325">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="360" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1597674482325" />
+    <state x="473" y="120" key="CommitChangelistDialog2" timestamp="1597674522421">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="473" y="120" key="CommitChangelistDialog2/0.23.1792.1026@0.23.1792.1026" timestamp="1597674522421" />
+    <state x="511" y="242" key="NewModule_or_Project.wizard" timestamp="1597674614696">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="511" y="242" key="NewModule_or_Project.wizard/0.23.1792.1026@0.23.1792.1026" timestamp="1597674614696" />
+    <state x="496" y="276" key="Vcs.Push.Dialog.v2" timestamp="1597674526750">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="496" y="276" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1597674526750" />
+  </component>
+</project>

@@ -19,15 +19,16 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e62b429-663a-4c84-81a4-9db049e84b74" name="Default Changelist" comment="Hello New">
-      <change afterPath="$PROJECT_DIR$/JenkinsFile" afterDir="false" />
+    <list default="true" id="6e62b429-663a-4c84-81a4-9db049e84b74" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ABC.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +121,28 @@
       <option name="project" value="LOCAL" />
       <updated>1597676202530</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Yaml file">
+      <created>1597735551157</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597735551157</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Removed yaml file">
+      <created>1597735654121</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597735654121</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added file">
+      <created>1597735824330</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1597735824330</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +159,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -153,7 +175,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello 11" />
     <MESSAGE value="Hello New" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello New" />
+    <MESSAGE value="Yaml file" />
+    <MESSAGE value="Removed yaml file" />
+    <MESSAGE value="Added file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597674482325">
@@ -164,10 +189,11 @@
       <screen x="0" y="23" width="1792" height="1030" />
     </state>
     <state x="609" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1030@0.23.1792.1030" timestamp="1597735417821" />
-    <state x="473" y="120" key="CommitChangelistDialog2" timestamp="1597676202399">
-      <screen x="0" y="23" width="1792" height="1026" />
+    <state x="473" y="120" key="CommitChangelistDialog2" timestamp="1597735824207">
+      <screen x="0" y="23" width="1792" height="1030" />
     </state>
     <state x="473" y="120" key="CommitChangelistDialog2/0.23.1792.1026@0.23.1792.1026" timestamp="1597676202399" />
+    <state x="473" y="120" key="CommitChangelistDialog2/0.23.1792.1030@0.23.1792.1030" timestamp="1597735824207" />
     <state x="784" y="410" width="443" height="252" key="MultipleFileMergeDialog" timestamp="1597675808596">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
@@ -176,10 +202,11 @@
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="511" y="242" key="NewModule_or_Project.wizard/0.23.1792.1026@0.23.1792.1026" timestamp="1597674614696" />
-    <state x="496" y="276" key="Vcs.Push.Dialog.v2" timestamp="1597676211367">
-      <screen x="0" y="23" width="1792" height="1026" />
+    <state x="496" y="277" key="Vcs.Push.Dialog.v2" timestamp="1597735827152">
+      <screen x="0" y="23" width="1792" height="1030" />
     </state>
     <state x="496" y="276" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1597676211367" />
+    <state x="496" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1030@0.23.1792.1030" timestamp="1597735827152" />
     <state x="684" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597675692203">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>

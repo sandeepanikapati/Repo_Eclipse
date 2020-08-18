@@ -16,10 +16,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e62b429-663a-4c84-81a4-9db049e84b74" name="Default Changelist" comment="">
+    <list default="true" id="6e62b429-663a-4c84-81a4-9db049e84b74" name="Default Changelist" comment="Hello New">
+      <change afterPath="$PROJECT_DIR$/JenkinsFile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +43,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gEIX4DwgbYeqYnCbhZLZnKC8j9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -77,7 +85,42 @@
       <option name="project" value="LOCAL" />
       <updated>1597674522553</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hello New">
+      <created>1597675765449</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597675765449</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hello New">
+      <created>1597675878151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597675878151</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Hello New">
+      <created>1597676050251</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597676050251</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Hello New">
+      <created>1597676140334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597676140334</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Hello New">
+      <created>1597676202530</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597676202530</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,32 +131,62 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello 11" />
+    <MESSAGE value="Hello New" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello New" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597674482325">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="360" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1597674482325" />
-    <state x="473" y="120" key="CommitChangelistDialog2" timestamp="1597674522421">
+    <state x="609" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597735417821">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="609" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1030@0.23.1792.1030" timestamp="1597735417821" />
+    <state x="473" y="120" key="CommitChangelistDialog2" timestamp="1597676202399">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state x="473" y="120" key="CommitChangelistDialog2/0.23.1792.1026@0.23.1792.1026" timestamp="1597674522421" />
+    <state x="473" y="120" key="CommitChangelistDialog2/0.23.1792.1026@0.23.1792.1026" timestamp="1597676202399" />
+    <state x="784" y="410" width="443" height="252" key="MultipleFileMergeDialog" timestamp="1597675808596">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="784" y="410" width="443" height="252" key="MultipleFileMergeDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1597675808596" />
     <state x="511" y="242" key="NewModule_or_Project.wizard" timestamp="1597674614696">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="511" y="242" key="NewModule_or_Project.wizard/0.23.1792.1026@0.23.1792.1026" timestamp="1597674614696" />
-    <state x="496" y="276" key="Vcs.Push.Dialog.v2" timestamp="1597674526750">
+    <state x="496" y="276" key="Vcs.Push.Dialog.v2" timestamp="1597676211367">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state x="496" y="276" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1597674526750" />
+    <state x="496" y="276" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1597676211367" />
+    <state x="684" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597675692203">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="684" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1026@0.23.1792.1026" timestamp="1597675692203" />
+    <state x="566" y="331" key="git4idea.merge.GitPullDialog" timestamp="1597675825983">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="566" y="331" key="git4idea.merge.GitPullDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1597675825983" />
   </component>
 </project>
